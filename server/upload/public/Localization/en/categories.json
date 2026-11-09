@@ -1,0 +1,17 @@
+[
+    {
+        "id":"cat1",
+        "title":"category1",
+        "image":"https://127.0.0.1:8443/icon.jpeg"
+    },
+    {
+        "id":"cat2",
+        "title":"category2",
+        "image":"https://127.0.0.1:8443/icon.jpeg"
+    },
+    {
+        "id":"cat3",
+        "title":"category3",
+        "image":"https://127.0.0.1:8443/icon.jpeg"
+    },
+]

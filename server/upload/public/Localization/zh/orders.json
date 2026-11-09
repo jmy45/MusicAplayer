@@ -1,0 +1,18 @@
+[
+    {
+        "id":"item2",
+        "name":"安静",
+        "music":
+        {
+            "id":"item2",
+            "name":"安静",
+            "description":"zhuanji 2",
+            "image":"https://127.0.0.1:8443/introduction.jpeg",
+            "album_cover_image":"https://127.0.0.1:8443/album_cover_fantasy.jpg",
+            "playurl":"https://127.0.0.1:8443/MusicResources/anjing.mp3",
+            "calories":100,
+            "album":"范特西",
+            "category":"cat1"
+        }
+    }
+]

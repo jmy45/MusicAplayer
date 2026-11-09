@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "BalaBalaBalaBala"; ObjectID = "563-Sc-26c"; */
+"563-Sc-26c.text" = "BalaBalaBalaBala";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Go-q8-9h4"; */
+"9Go-q8-9h4.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "AVA-E8-VGn"; */
+"AVA-E8-VGn.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AVA-E8-VGn"; */
+"AVA-E8-VGn.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Music~"; ObjectID = "ArA-ID-5Gc"; */
+"ArA-ID-5Gc.title" = "音乐~";
+
+/* Class = "UILabel"; text = "Food Category"; ObjectID = "Glo-rm-2Hw"; */
+"Glo-rm-2Hw.text" = "专辑";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "IJz-Zs-MHi"; */
+"IJz-Zs-MHi.title" = " ";
+
+/* Class = "UIButton"; configuration.title = "Place Order"; ObjectID = "X1N-Xa-ZFR"; */
+"X1N-Xa-ZFR.configuration.title" = "加入播放列表";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X1N-Xa-ZFR"; */
+"X1N-Xa-ZFR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Popular Dishes"; ObjectID = "Xs2-bd-rYr"; */
+"Xs2-bd-rYr.text" = "流行音乐";
+
+/* Class = "UILabel"; text = "balalalabalalabalbbbbaaabababababablalalalalalalbaballala"; ObjectID = "bn9-BT-gzf"; */
+"bn9-BT-gzf.text" = "balalalabalalabalbbbbaaabababababablalalalalalalbaballala";
+
+/* Class = "UILabel"; text = "Chef's Specials"; ObjectID = "fOa-O8-qIe"; */
+"fOa-O8-qIe.text" = "特别推荐";
+
+/* Class = "UILabel"; text = "BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"; ObjectID = "h65-Ad-tP8"; */
+"h65-Ad-tP8.text" = "BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! BalaBala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nuo-ks-eFW"; */
+"nuo-ks-eFW.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your name"; ObjectID = "vOU-U6-04N"; */
+"vOU-U6-04N.placeholder" = "请输入名字";
